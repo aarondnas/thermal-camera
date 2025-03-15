@@ -1,0 +1,3 @@
+[Desktop Entry]
+Name=start_thermograph.sh
+Exec=/usr/bin/python3 /home/teamthermo/Desktop/gesundheitstechnik_thermograph/Thermograph_OS/main_os.py

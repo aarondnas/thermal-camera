@@ -1,0 +1,19 @@
+Sketchboard Design
+-----------------------------------------------------
+- one handed 
+- trigger									
+- Gunshot design
+	
+- Aufteilung in 2 körper 
+	- Zylinder 
+		- Griff
+		- Platz für Akku?
+		- Trigger
+	- Würfel/Quader
+		- Housing für Bildschirm, Sensoren, RaspPi
+		- Schutz für nicht benutzten Sensor
+		- Buttons?			
+- Verbindung über Gewinde?
+		- Gewinde bedeutet, Würfel als ein Körper?
+			- Assembly kompliziert
+			
